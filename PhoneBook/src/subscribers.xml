@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneBook>
+	<subscriber>
+		<name>Derek Banas</name>
+		<address>STR.IANCU JIANU, Nr.7A, Loc.CRAIOVA, Jud.DOLJ</address>
+		<phonenumber>0351430240</phonenumber>
+	</subscriber>
+	
+	<subscriber>
+		<name>Ionel Sandel</name>
+		<address>BD DACIA, Nr.57, Bl.38-40, Sc.1, Et.2, Ap.8, Loc.CRAIOVA, Jud.DOLJ</address>
+		<phonenumber>0351200240</phonenumber>
+	</subscriber>
+	
+	<subscriber>
+		<name>Ioana Alexandru</name>
+		<address>STR.BASARABIA, Nr.6, Bl.I22, Sc.1, Et.2, Ap.9, Loc.CRAIOVA, Jud.DOLJ</address>
+		<phonenumber>0351430781</phonenumber>
+	</subscriber>
+
+</phoneBook>
