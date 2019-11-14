@@ -19,7 +19,7 @@ public class UI extends JFrame{
 	GridBagConstraints constraints;
 	
 	public UI() {
-		super("Book phone");
+		super("Phone book");
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setSize(400, 450);
 		setResizable(false);
